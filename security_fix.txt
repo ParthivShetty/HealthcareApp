@@ -1,0 +1,8 @@
+Security flaws:
+  Memory leaks
+  vulnerable against ddos attacks
+  etc.
+
+Proposed fixes:
+  switch to rust
+  etc
